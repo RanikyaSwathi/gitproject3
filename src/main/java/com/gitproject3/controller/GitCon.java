@@ -9,4 +9,7 @@ public class GitCon {
 	public void get1() {
 		System.out.println("welcome to git learning.");
 	}
+	public void get2() {
+		System.out.println("welcome to git learning.");
+	}
 }
